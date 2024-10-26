@@ -2,15 +2,7 @@
 
 Ce projet est une application Web CRUD (Créer, Lire, Mettre à jour, Supprimer) développée avec Spring Boot et Thymeleaf. Il permet de gérer des entités utilisateur avec des fonctionnalités de validation et de persistance des données.
 
-## Table des matières
 
-- [Fonctionnalités](#fonctionnalités)
-- [Technologies utilisées](#technologies-utilisées)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Démonstration vidéo](#démonstration-vidéo)
-- [Contributions](#contributions)
-- [Licence](#licence)
 
 ## Fonctionnalités
 
